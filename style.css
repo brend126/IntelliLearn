@@ -1,0 +1,33 @@
+.barra{
+width: 1440px;
+height: 150px;
+flex-shrink: 0;
+background: #FFEAB6;
+
+color: #000;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 109.091% */
+
+color: #000;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 109.091% */
+
+color: #000;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 109.091% */
+}
+.imagen{
+    width: 249px;
+height: 137px;
+flex-shrink: 0;
+background: url(/IMG/Tarjeta.png) lightgray 50% / cover no-repeat;
+}
